@@ -7,7 +7,7 @@
 
 Este projeto inclui testes automatizados com Cypress para verificar se as funcionalidades da API estão operando corretamente.
 
-Cenarios de testes -> **Link**: [Teste de Automação API](https://github.com/matheusgama30/DesafioT-cnico-Coco-Bambu/blob/main/Desafio_Tecnico_CocoBambu/TesteAPI/Automa%C3%A7%C3%A3oAPI.md)
+Cenarios de testes -> **Link**: [Teste de Automação API](https://github.com/matheusgama30/AutomacaoCypressAPI/blob/main/Automa%C3%A7%C3%A3o_Cypress_API/Automa%C3%A7%C3%A3oAPI.md)
 
 ### Pré-requisitos
 
@@ -21,7 +21,7 @@ Cenarios de testes -> **Link**: [Teste de Automação API](https://github.com/ma
 
 1. Clone o Repositório
     - Realize o clone do projeto. (Caso já tenha feito o clone do repositrio no procedimento anterior, não precisa realizar novamente!)
-    - `git clone `
+    - `git clone https://github.com/matheusgama30/AutomacaoCypressAPI.git`
 
 2. Acesse a Pasta do Projeto
     - `cd Automação_Cypress_API`
