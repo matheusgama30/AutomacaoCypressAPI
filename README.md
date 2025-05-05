@@ -9,6 +9,8 @@ Este projeto inclui testes automatizados com Cypress para verificar se as funcio
 
 Cenarios de testes -> **Link**: [Teste de Automação API](https://github.com/matheusgama30/AutomacaoCypressAPI/blob/main/Automa%C3%A7%C3%A3o_Cypress_API/Automa%C3%A7%C3%A3oAPI.md)
 
+![Teste API cypress](./Automação_Cypress_API/img/testeAPI.png)
+
 ### Pré-requisitos
 
 - Node.js - versão 20.11.0 ou superiorou superior
