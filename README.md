@@ -9,7 +9,7 @@ Este projeto inclui testes automatizados com Cypress para verificar se as funcio
 
 Cenarios de testes -> **Link**: [Teste de Automação API](https://github.com/matheusgama30/AutomacaoCypressAPI/blob/main/Automa%C3%A7%C3%A3o_Cypress_API/Automa%C3%A7%C3%A3oAPI.md)
 
-A API testada foi a do DummyJSON - Carts, que oferece uma estrutura simples e robusta para simular operações reais de e-commerce. **Link**: [DummyJSON](https://dummyjson.com/docs/carts)
+A API testada foi a do DummyJSON - Carts, que oferece uma estrutura simples e robusta para simular operações reais de e-commerce. **Link da documentação**: [DummyJSON](https://dummyjson.com/docs/carts)
 
 ![Teste API cypress](./Automação_Cypress_API/img/testeAPI.png)
 
